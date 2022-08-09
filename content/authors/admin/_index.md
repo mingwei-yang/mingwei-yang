@@ -20,14 +20,14 @@ organizations:
 interests:
   - Theoretical Computer Science
   - Algorithmic Game Theory
-  - Computational Social Choice
+  - Machine Learning
 
-# Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Peking University
-#       year: 2023
+Education to show in About widget
+education:
+  courses:
+    - course: BSc in EECS
+      institution: Peking University
+      year: 2019-present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,4 +65,4 @@ highlight_name: true
 ---
 
 
-I am a fourth-year undergraduate student in Computer Science at Peking University, where I am very fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). My research interests broadly lie in theoretical computer science, especially the intersection of computer science and economics. I have been working on algorithm design and analysis, computational social choide, algorithmic game theory, and machine learning.
+I am a fourth-year undergraduate student in Computer Science at Peking University, where I am very fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). My research interests broadly lie in theoretical computer science, especially the intersection of computer science and economics. I have been working on algorithm design and analysis, algorithmic game theory, and machine learning.
