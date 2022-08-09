@@ -22,7 +22,7 @@ interests:
   - Algorithmic Game Theory
   - Machine Learning
 
-Education to show in About widget
+# Education to show in About widget
 education:
   courses:
     - course: BSc in EECS
