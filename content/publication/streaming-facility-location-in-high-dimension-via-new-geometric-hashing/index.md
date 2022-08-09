@@ -7,7 +7,7 @@ authors:
   - Shaofeng H.-C. Jiang
   - Robert Krauthgamer
   - Pavel Veselý
-  - Mingwei Yang
+  - admin
 publication: FOCS 2022
 publication_short: FOCS 2022
 abstract: >-
