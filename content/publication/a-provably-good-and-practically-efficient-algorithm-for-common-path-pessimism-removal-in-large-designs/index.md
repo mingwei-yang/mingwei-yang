@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Zizheng Guo
-  - Mingwei Yang
+  - admin
   - Tsung-Wei Huang
   - Yibo Lin
 publication: TCADICS 2021
