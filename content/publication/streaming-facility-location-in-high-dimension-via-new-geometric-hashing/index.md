@@ -8,7 +8,7 @@ authors:
   - Robert Krauthgamer
   - Pavel Veselý
   - admin
-doi: https://arxiv.org/abs/2204.02095
+doi: ""
 publication: FOCS 2022
 publication_short: FOCS 2022
 abstract: >-
