@@ -20,7 +20,7 @@ organizations:
 interests:
   - Theoretical Computer Science
   - Algorithmic Game Theory
-  - Machine Learning
+  - Computational Social Choice
 
 # Education to show in About widget
 education:
