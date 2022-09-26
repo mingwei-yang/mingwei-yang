@@ -19,8 +19,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Theoretical Computer Science
+  - Algorithm Design and Analysis
   - Algorithmic Game Theory
-  - Computational Social Choice
 
 # Education to show in About widget
 education:
@@ -67,6 +67,6 @@ highlight_name: true
 
 I am a senior undergraduate student in Computer Science at Turing Class, Peking University, where I am honored to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During my undergraduate years, I am also very fortunate to have closely worked with Prof. [Shaofeng Jiang](https://shaofengjiang.cn/) and Prof. [Alexandros Psomas](https://www.alexpsomas.com/).
 
-My research interests broadly lie in theoretical computer science, especially in algorithm design and algorithmic game theory.
+My research interests broadly lie in theoretical computer science, especially in algorithm design and analysis, and algorithmic game theory.
 
 My Chinese name is 杨明炜. I am crazy about [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing), which is an individual sport that involves problem solving, strength and body control.
