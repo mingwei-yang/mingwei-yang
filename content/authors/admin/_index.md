@@ -65,8 +65,6 @@ highlight_name: true
 ---
 
 
-I am a senior undergraduate student in Computer Science at Turing Class, Peking University. During my undergraduate years, I am very honored to have closely worked with Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm), Prof. [Shaofeng Jiang](https://shaofengjiang.cn/), Prof. [Alexandros Psomas](https://www.alexpsomas.com/) and Prof. [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/).
+I am a senior undergraduate student in Computer Science at Turing Class, Peking University. My research interests broadly lie in theoretical computer science, especially in algorithm design and analysis, and algorithmic game theory. Currently I am working on graph algorithms.
 
-My research interests broadly lie in theoretical computer science, especially in algorithm design and analysis, and algorithmic game theory. Currently I am working on graph algorithms.
-
-My Chinese name is 杨明炜. I am crazy about [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing), which is an individual sport that involves problem solving, strength and body control.
+My Chinese name is 杨明炜. I am crazy about [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing) and I was the captain of the rocking climbing team in [Mountaineering Association of Peking University](https://zh.m.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B1%B1%E9%B9%B0%E7%A4%BE).
