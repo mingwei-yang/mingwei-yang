@@ -67,4 +67,4 @@ highlight_name: true
 
 I am a senior undergraduate student in Computer Science at Turing Class, Peking University. My research interests broadly lie in theoretical computer science, especially in algorithm design and analysis, and algorithmic game theory. Currently I am working on graph algorithms.
 
-My Chinese name is 杨明炜. I am crazy about [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing) and I was the captain of the rocking climbing team in [Mountaineering Association of Peking University](https://zh.m.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B1%B1%E9%B9%B0%E7%A4%BE).
+My Chinese name is 杨明炜. I am crazy about [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing) and I was the captain of the rock climbing team in [Mountaineering Association of Peking University](https://zh.m.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B1%B1%E9%B9%B0%E7%A4%BE).
