@@ -6,22 +6,21 @@ publication_types:
 authors:
   - admin
 publication: Working papers
-publication_short: Working papers
-abstract: We study the problem of dynamically allocating indivisible items to a
-  group of agents in a fair manner. We assume that the items are goods and the
-  valuation functions are additive without specification. Due to the negative
-  results to achieve fairness, we allow adjustments to make fairness attainable
-  with the objective to minimize the number of adjustments. We obtain positive
-  results to achieve EF1 for (1) two agents with mixed manna, (2) restricted
-  additive or general identical valuations, and (3) the default setting. We
-  further impose the contiguity constraint on the items and require that each
-  agent obtains a consecutive block of items. We obtain both positive and
-  negative results to achieve either EF1 or proportionality with an additive
-  approximate factor. In particular, we establish matching lower and upper
-  bounds to achieve approximate proportionality for identical valuations. Our
-  results exhibit the large discrepancy between the identical model and
-  nonidentical model in both contiguous and noncontiguous settings. All our
-  positive results are computationally efficient.
+publication_short: AAMAS 2023
+abstract: >-
+  We study the problem of dynamically allocating indivisible items with
+  nonnegative valuations to a group of agents in a fair manner. Due to the
+  negative results to achieve fairness when allocations are irrevocable, we
+  allow adjustments to make fairness attainable with the objective to minimize
+  the number of adjustments. For restricted additive or general identical
+  valuations, we show that \textit{envy-freeness up to one item (EF1)} can be
+  achieved at no cost. For additive valuations, we give an EF1 algorithm that
+  requires $O(mT)$ adjustments, where $m$ is the maximum number of different
+  valuations for items among all agents and $T$ is the number of items.
+
+  We further impose the contiguity constraint on items and require that each agent obtains a consecutive block of items. We present extensive results to achieve either \textit{proportionality} with an additive approximate factor or EF1. In particular, we establish matching lower and upper bounds for identical valuations to achieve approximate proportionality. We also show that it's hopeless to make any significant improvement when valuations are nonidentical.
+
+  Our results exhibit a large discrepancy between the identical and nonidentical cases in both contiguous and noncontiguous settings. All our positive results are computationally efficient.
 draft: false
 featured: false
 image:
