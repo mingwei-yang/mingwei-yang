@@ -5,7 +5,8 @@ publication_types:
   - "3"
 authors:
   - admin
-publication: Working papers
+publication: The 22nd International Conference on Autonomous Agents and
+  Multiagent Systems, AAMAS 2023
 publication_short: AAMAS 2023
 abstract: >-
   We study the problem of dynamically allocating indivisible items with
