@@ -1,5 +1,5 @@
 ---
-title: Streaming Facility Location in High Dimension via New Geometric Hashing
+title: Streaming Facility Location in High Dimension via Geometric Hashing
 publication_types:
   - "1"
 authors:
