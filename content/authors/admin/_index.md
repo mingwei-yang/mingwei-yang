@@ -6,12 +6,12 @@ title: Mingwei Yang
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student in Computer Science
+role: Ph.D. Student in Operations Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
-    url: https://www.pku.edu.cn/
+  - name: Department of Management Science and Engineering, Stanford University
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -58,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yangmingwei@pku.edu.cn'
+email: 'mwyang at stanford dot edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
