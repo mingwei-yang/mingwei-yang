@@ -22,7 +22,7 @@ education:
     - course: BSc (Summa Cum Laude) in Computer Science and Technology
       institution: Peking University
       year: 2019-2023
-email: ""
+email: mwyang@stanford.edu
 superuser: true
 highlight_name: true
 ---
