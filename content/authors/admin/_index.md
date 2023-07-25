@@ -22,7 +22,7 @@ education:
     - course: BSc (Summa Cum Laude) in Computer Science and Technology
       institution: Peking University
       year: 2019-2023
-email: 763647200@qq.com
+email: ""
 superuser: true
 highlight_name: true
 ---
