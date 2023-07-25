@@ -7,7 +7,7 @@ title: Contact
 subtitle: null
 content:
   autolink: true
-  email: yangmingwei@pku.edu.cn
+  email: mwyang at stanford dot edu
 design:
   columns: "2"
 ---
