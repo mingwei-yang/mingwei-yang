@@ -2,7 +2,7 @@
 widget: tag_cloud
 widget_id: tag_cloud
 headless: true
-weight: 120
+weight: 100
 title: Teaching
 subtitle: ""
 active: true
@@ -13,3 +13,4 @@ design:
   font_size_min: 0.7
   font_size_max: 2
 ---
+Teaching Assistant, Algorithm Design and Analysis, PKU, 2023 Spring﻿
