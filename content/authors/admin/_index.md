@@ -6,7 +6,7 @@ title: Mingwei Yang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Operations Research
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,8 +65,8 @@ highlight_name: true
 ---
 
 
-I will be a Ph.D. candidate in the [Management Science and Engineering department](https://msande.stanford.edu/) at [Stanford](https://www.stanford.edu/).
-Previously, I obtained my BSc in Computer Science and Technology at [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), [Peking University](https://english.pku.edu.cn/) advised by Prof. [Shaofeng Jiang](https://shaofengjiang.cn/). My research interests broadly lie in theoretical computer science, especially in algorithm design and analysis and algorithmic game theory. Currently, I am working on fair division.
+I am a Ph.D. student at [Stanford University](https://www.stanford.edu/).
+Prior to that, I received my bachelor's degree at [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), [Peking University](https://english.pku.edu.cn/) advised by Prof. [Shaofeng Jiang](https://shaofengjiang.cn/). My research interests broadly lie in theoretical computer science, especially in algorithm design and analysis and algorithmic game theory. Currently, I am working on fair division problems.
 
 My Chinese name is 杨明炜. I am crazy about [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing) and I was the captain of the rock climbing team at the [Mountaineering Association of Peking University](https://zh.m.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B1%B1%E9%B9%B0%E7%A4%BE).
 
