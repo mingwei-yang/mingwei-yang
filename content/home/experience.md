@@ -32,4 +32,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-Teaching Assistant, Algorithm Design and Analysis, PKU, 2023 Spring
