@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Management Science and Engineering, Stanford University
+  - name: [Department of Management Science and Engineering](https://msande.stanford.edu/), [Stanford University](https://www.stanford.edu/).
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Computer Science and Technology
+    - course: BSc (Summa Cum Laude) in Computer Science and Technology
       institution: Peking University
       year: 2019-2023
 
@@ -58,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: mwyang at stanford dot edu
+email: 'mwyang@stanford.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
