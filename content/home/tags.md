@@ -5,7 +5,7 @@ headless: true
 weight: 100
 title: Teaching
 subtitle: ""
-active: true
+active: false
 content:
   Teaching Assistant, Algorithm Design and Analysis, PKU, 2023 Spring﻿
 ---
