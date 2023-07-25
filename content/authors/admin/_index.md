@@ -10,8 +10,10 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: [Department of Management Science and Engineering](https://msande.stanford.edu/), [Stanford University](https://www.stanford.edu/).
-    url: 
+  - name: Department of Management Science and Engineering
+    url: https://msande.stanford.edu/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
