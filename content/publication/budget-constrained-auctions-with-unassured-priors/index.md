@@ -1,10 +1,10 @@
 ---
-title: "\tBudget-Constrained Auctions with Unassured Priors: Strategic
-  Equivalence and Structural Properties"
+title: "Budget-Constrained Auctions with Unassured Priors: Strategic Equivalence
+  and Structural Properties"
 publication_types:
   - "3"
 authors:
-  - Zhaohua Chen
+  - (αβ) Zhaohua Chen
   - Xiaotie Deng
   - Jicheng Li
   - Chang Wang
