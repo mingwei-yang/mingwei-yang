@@ -4,7 +4,7 @@ publication_types:
   - "3"
   - "1"
 authors:
-  - Xiaohui Bei
+  - (αβ) Xiaohui Bei
   - Biaoshuai Tao
   - Jiajun Wu
   - admin
