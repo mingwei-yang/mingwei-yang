@@ -3,7 +3,7 @@ title: On the Re-Solving Heuristic for (Binary) Contextual Bandits with Knapsack
 publication_types:
   - "3"
 authors:
-  - Rui Ai
+  - (αβ) Rui Ai
   - Zhaohua Chen
   - Xiaotie Deng
   - Yuqi Pan
