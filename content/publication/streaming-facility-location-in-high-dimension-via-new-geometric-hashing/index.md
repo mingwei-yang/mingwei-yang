@@ -3,7 +3,7 @@ title: Streaming Facility Location in High Dimension via Geometric Hashing
 publication_types:
   - "1"
 authors:
-  - Artur Czumaj
+  - (αβ) Artur Czumaj
   - Shaofeng H.-C. Jiang
   - Robert Krauthgamer
   - Pavel Veselý
