@@ -2,18 +2,18 @@
 title: "Budget-Constrained Auctions with Unassured Priors: Strategic Equivalence
   and Structural Properties"
 publication_types:
-  - "3"
+  - "1"
 authors:
-  - (αβ) Zhaohua Chen
-  - Xiaotie Deng
-  - Jicheng Li
-  - Chang Wang
+  - Zhaohua Chen
   - admin
+  - Chang Wang
+  - Jicheng Li
   - Zheng Cai
   - Yukun Ren
-  - Zhihua Zhu
-publication: Working papers
-publication_short: Working papers
+  - zhihua zhu
+  - Xiaotie Deng
+publication: WWW 2024
+publication_short: WWW 2024
 abstract: ""
 draft: false
 featured: false
