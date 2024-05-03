@@ -4,7 +4,7 @@ title: "Incentive Ratios for Fairly Allocating Indivisible Goods: Simple
 publication_types:
   - "3"
 authors:
-  - (αβ) Biaoshuai Tao
+  - Biaoshuai Tao
   - admin
 publication_short: Working papers
 draft: false
