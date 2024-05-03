@@ -9,8 +9,8 @@ authors:
   - Pavel Veselý
   - admin
 doi: ""
-publication: FOCS 2022
-publication_short: FOCS 2022
+publication: FOCS
+publication_short: FOCS
 abstract: ""
 draft: false
 featured: false
