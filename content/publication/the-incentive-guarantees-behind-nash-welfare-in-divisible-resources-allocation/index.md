@@ -8,7 +8,7 @@ authors:
   - Biaoshuai Tao
   - Jiajun Wu
   - admin
-publication_short: WINE 2023
+publication_short: WINE
 draft: false
 featured: false
 image:
