@@ -5,9 +5,8 @@ publication_types:
   - "3"
 authors:
   - admin
-publication: The 22nd International Conference on Autonomous Agents and
-  Multiagent Systems, AAMAS 2023
-publication_short: AAMAS
+publication: ""
+publication_short: AAMAS (Extended Abstract)
 abstract: ""
 draft: false
 featured: false
