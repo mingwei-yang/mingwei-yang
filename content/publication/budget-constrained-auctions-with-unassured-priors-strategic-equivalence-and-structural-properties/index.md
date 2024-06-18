@@ -11,7 +11,7 @@ authors:
   - Zheng Cai
   - Yukun Ren
   - Zhihua Zhu
-  - Xiaotie Deng
+  - Xiaotie Deng (by contribution)
 publication: ""
 publication_short: WWW
 draft: false
