@@ -9,7 +9,7 @@ authors:
   - Pavel Veselý
   - admin
 doi: ""
-publication: FOCS
+publication: ""
 publication_short: FOCS
 abstract: ""
 draft: false
