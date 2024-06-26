@@ -1,8 +1,8 @@
 ---
-widget: portfolio
+widget: contact
 widget_id: Services
 headless: true
-weight: 65
+weight: 95
 title: Services
 subtitle: ""
 active: true
@@ -21,4 +21,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-1﻿11
+Conference reviewer: AAMAS'24, NeurIPS'24
