@@ -9,7 +9,7 @@ authors:
   - Yuqi Pan
   - Chang Wang
   - Xiaotie Deng (by contribution)
-publication_short: NeurIPS 2024
+publication_short: NeurIPS
 draft: false
 featured: false
 image:
