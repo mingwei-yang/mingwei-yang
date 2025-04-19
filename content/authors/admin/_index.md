@@ -26,7 +26,7 @@ email: mwyang@stanford.edu
 superuser: true
 highlight_name: true
 ---
-I am a second-year Ph.D. student in Operations Research at [Stanford University](https://www.stanford.edu/).
-Prior to joining Stanford, I received my bachelor's degree at [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Shaofeng Jiang](https://shaofengjiang.cn/). My research interests broadly lie in theoretical computer science, especially in online algorithms and fair division.
+I am a second-year Ph.D. student in Operations Research at [Stanford University](https://www.stanford.edu/), honored to be advised by Prof. [Aviad Rubinstein](https://cs.stanford.edu/~aviad/) and Prof. [Amin Saberi](https://stanford.edu/~saberi/).
+Prior to joining Stanford, I received my bachelor's degree at [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm), [Peking University](https://english.pku.edu.cn/), where I was fortunate to be advised by Prof. [Shaofeng Jiang](https://shaofengjiang.cn/). My research interests broadly lie in theoretical computer science and its intersection with economics.
 
 My Chinese name is 杨明炜. I am crazy about [rock climbing](https://en.wikipedia.org/wiki/Rock_climbing) and I was the captain of the rock climbing team at the [Mountaineering Association of Peking University](https://zh.m.wikipedia.org/zh-hans/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B1%B1%E9%B9%B0%E7%A4%BE).
