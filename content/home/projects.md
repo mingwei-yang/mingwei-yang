@@ -21,4 +21,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
-Conference reviewer: AAMAS'24, NeurIPS'24, ICML'25
+Conference reviewer: AAMAS'24, NeurIPS'24, ICML'25, NeurIPS'25
