@@ -1,7 +1,6 @@
 ---
 title: The Incentive Guarantees Behind Nash Welfare in Divisible Resources Allocation
 publication_types:
-  - "0"
   - "2"
 authors:
   - Xiaohui Bei
