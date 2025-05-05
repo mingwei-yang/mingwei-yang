@@ -1,0 +1,19 @@
+---
+title: The Incentive Guarantees Behind Nash Welfare in Divisible Resources Allocation
+publication_types:
+  - "0"
+  - "2"
+authors:
+  - Xiaohui Bei
+  - Biaoshuai Tao
+  - Jiajun Wu
+  - admin
+publication_short: Artificial Intelligence 2025 (Journal Version)
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2025-05-05T04:43:18.899Z
+---
