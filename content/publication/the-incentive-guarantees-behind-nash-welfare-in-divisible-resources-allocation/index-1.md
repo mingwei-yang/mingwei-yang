@@ -8,7 +8,7 @@ authors:
   - Biaoshuai Tao
   - Jiajun Wu
   - admin
-publication_short: Artificial Intelligence 2025 (Journal Version)
+publication_short: Artif. Intell. (Journal Version)
 draft: false
 featured: false
 image:
