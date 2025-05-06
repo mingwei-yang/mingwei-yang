@@ -1,5 +1,5 @@
 ---
-title: The Incentive Guarantees Behind Nash Welfare in Divisible Resources Allocations
+title: The Incentive Guarantees Behind Nash Welfare in Divisible Resources Allocation
 publication_types:
   - "1"
 authors:
