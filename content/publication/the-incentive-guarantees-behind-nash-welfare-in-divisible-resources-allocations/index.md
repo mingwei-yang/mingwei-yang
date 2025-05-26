@@ -7,7 +7,7 @@ authors:
   - Biaoshuai Tao
   - Jiajun Wu
   - admin
-publication_short: Artif. Intell. (Journal Version)
+publication_short: Artif. Intell. (Supersedes WINE'23 paper)
 draft: false
 featured: false
 image:
