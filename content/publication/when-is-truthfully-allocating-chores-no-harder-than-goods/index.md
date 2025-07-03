@@ -9,7 +9,7 @@ authors:
   - Xiaowei Wu
   - admin
   - Shengwei Zhou
-publication_short: Working Paper
+publication_short: SAGT 2025
 draft: false
 featured: false
 image:
