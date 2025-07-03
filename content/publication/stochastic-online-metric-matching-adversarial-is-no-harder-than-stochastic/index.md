@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Amin Saberi
   - admin
-  - Sophie Yu
+  - Sophie H. Yu
 publication_short: WINE
 draft: false
 featured: false
