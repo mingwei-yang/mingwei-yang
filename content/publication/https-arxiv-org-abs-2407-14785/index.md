@@ -1,5 +1,5 @@
 ---
-title: https://arxiv.org/abs/2407.14785
+title: "Online Metric Matching: Beyond the Worst Case"
 publication_types:
   - "3"
 authors:
