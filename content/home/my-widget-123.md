@@ -12,7 +12,7 @@ design:
     image_darken: 0
 ---
 
-Teaching Assistant, Design and Analysis of Algorithms,Stanford, 2025 Summer
+Teaching Assistant, Design and Analysis of Algorithms, Stanford, 2025 Summer
 
 Teaching Assistant, Incentives in Computer Science, Stanford, 2025 Spring﻿
 
