@@ -5,6 +5,7 @@ publication_types:
   - "3"
 authors:
   - Süleyman Kerimov
+  - Pengyu Qian
   - admin
   - Sophie H. Yu
 publication_short: Working Paper
